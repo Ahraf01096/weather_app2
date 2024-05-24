@@ -1,16 +1,15 @@
-# new_weather_app
+# Weather App 
 
 A new Flutter project.
+It's simple Weather App in Flutter. In this app, I have learn how to request the weather data from an API according to my location and display it on the screen.
 
-## Getting Started
+## Tools:
+Dart, Flutter, geolactor, equatable , weather and Bloc
 
-This project is a starting point for a Flutter application.
+#### accounts:
+[Facebook](https://www.facebook.com/ahmd.ahraf30/)
+[LinkedIn](https://www.linkedin.com/in/ahmed-ashraf-39a798194/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<img src="https://github.com/Ahraf01096/weather_app2/assets/136133152/608648aa-3e6e-4a78-b51a-649381193844">
+</div>
